@@ -50,3 +50,13 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 i dont need any help
+
+# Site Mirrors
+
+Current site mirrors:
+
+https://retest672.github.io/unstyled-site/ - Online
+
+Planned site mirrors:
+
+[CURRENTLY BLANK]
