@@ -1,7 +1,5 @@
 ## Hello there!
-## Welcome!
-The new version of retest672.github.io
-
+Welcome!
 Hi!
 
 Yes, and it's obvious, I do stuff in github.
